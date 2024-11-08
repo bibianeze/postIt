@@ -1,0 +1,7 @@
+.container{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.buttonnav{
+    border-color: rgb(108, 108, 168);
+}

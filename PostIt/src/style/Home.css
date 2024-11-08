@@ -1,0 +1,100 @@
+.grouptext1{
+    background-image: url(../assets/teacup.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+
+}
+.txt{
+    display: flex;
+   flex-direction: column;
+  padding: 3rem;
+  width: 593px;
+height: 105px;
+top: 329px;
+left: 102px;
+
+}
+.buttonnav{
+    width: 10rem;
+    background-color: rgb(27, 131, 166);
+    border-radius: 9px;
+    color: white;
+}
+.sec2{
+    display: flex;
+    border: 1px solid;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    /* gap: 1rem; */
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.lifestylesec{
+    display: flex;
+    gap: 1rem;
+
+    
+}
+.lifestyle{
+    background-color: rgb(237, 192, 109);
+    border: none; 
+    border-radius: 9px;
+    width: 6rem; 
+    color: white; 
+
+}
+.naturesec{
+    display: flex;
+    gap: 1rem;
+}
+.nature{
+    background-color: rgb(138, 217, 20);
+    border: none; 
+    border-radius: 9px;
+    width: 6rem; 
+    color: white;
+}
+.techsec{
+    display: flex;
+    gap: 1rem;
+}
+.technology{
+    background-color: rgb(96, 96, 225);
+    border: none; 
+    border-radius: 9px;
+    width: 6rem; 
+    color: white;
+}
+
+.sec3{
+    background-image: url(../assets/bgimage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 73rem;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+    padding: 2rem;
+    /* display: flex; */
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 3rem;
+}
+.inputbtn{
+    width: 10rem;
+    background-color: rgb(27, 131, 166);
+    /* border-radius: 9px; */
+    color: white;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border: none;
+    height: 5.3vh;
+  
+}
+.input{
+    width: 20rem;
+}
+
